@@ -1,0 +1,11 @@
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\bin\Debug\netcoreapp2.2\DatatypeProgram.deps.json
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\bin\Debug\netcoreapp2.2\DatatypeProgram.runtimeconfig.json
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\bin\Debug\netcoreapp2.2\DatatypeProgram.runtimeconfig.dev.json
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\bin\Debug\netcoreapp2.2\DatatypeProgram.dll
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\bin\Debug\netcoreapp2.2\DatatypeProgram.pdb
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\obj\Debug\netcoreapp2.2\DatatypeProgram.csprojAssemblyReference.cache
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\obj\Debug\netcoreapp2.2\DatatypeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\obj\Debug\netcoreapp2.2\DatatypeProgram.AssemblyInfoInputs.cache
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\obj\Debug\netcoreapp2.2\DatatypeProgram.AssemblyInfo.cs
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\obj\Debug\netcoreapp2.2\DatatypeProgram.dll
+C:\Users\Annu\source\repos\DatatypeProgram\DatatypeProgram\obj\Debug\netcoreapp2.2\DatatypeProgram.pdb

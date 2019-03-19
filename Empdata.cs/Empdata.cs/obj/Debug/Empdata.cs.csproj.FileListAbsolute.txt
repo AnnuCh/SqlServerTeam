@@ -1,0 +1,7 @@
+C:\Users\Annu\source\repos\Empdata.cs\Empdata.cs\bin\Debug\Empdata.cs.exe.config
+C:\Users\Annu\source\repos\Empdata.cs\Empdata.cs\bin\Debug\Empdata.cs.exe
+C:\Users\Annu\source\repos\Empdata.cs\Empdata.cs\bin\Debug\Empdata.cs.pdb
+C:\Users\Annu\source\repos\Empdata.cs\Empdata.cs\obj\Debug\Empdata.cs.csprojAssemblyReference.cache
+C:\Users\Annu\source\repos\Empdata.cs\Empdata.cs\obj\Debug\Empdata.cs.csproj.CoreCompileInputs.cache
+C:\Users\Annu\source\repos\Empdata.cs\Empdata.cs\obj\Debug\Empdata.cs.exe
+C:\Users\Annu\source\repos\Empdata.cs\Empdata.cs\obj\Debug\Empdata.cs.pdb

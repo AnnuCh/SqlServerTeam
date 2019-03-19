@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Employee";
+}
+@*<h2>@ViewBag.Title.</h2>
+    <h3>@ViewBag.Message</h3>*@
+<p>Lenora Employee details</p>
+@model WebApplication3.Models.clsEmpDetails
+
+@if (ViewBag.Des != null)
+{
+    @ViewBag.Des
+}
+<div class="container">
+    <h2>Employee Information</h2>
+    <form action="/home/about" method="post">
+        @*name*@
+        <div class="form-group">
+            <label for="name">EmployeeName:</label>
+            <input type="text" class="form-control" id="name" placeholder="Enter employee name" name="EmployeeName">
+        </div>
+        @*gender*@
+        <div class="form-group">
+            <label for="gen">Gender:</label>
+            <input type="text" class="form-control" id="gen" placeholder="Enter Gender" name="Gender">
+        </div>
+        @*salary*@
+        <div class="form-group">
+            <label for="sal">Salary:</label>
+            <input type="text" class="form-control" id="sal" placeholder="Enter Salary" name="Salary">
+        </div>
+        @*skillset*@
+        <div class="form-group">
+            <label for="skl">SkillSet:</label>
+            <input type="text" class="form-control" id="skl" placeholder="Enter employee skillset" name="Skillset">
+        </div>
+        @*mobile*@
+        <div class="form-group">
+            <label for="mob">Mobile_no:</label>
+            <input type="text" class="form-control" id="mob" placeholder="Enter Mobile number" name="Mobile">
+        </div>
+        @*email*@
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+        </div>
+        @*password*@
+        @*<div class="form-group">
+                <label for="pwd">Password:</label>
+                <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pwd">
+            </div>*@
+        <div class="form-group">
+            <label for="designation">Designation:</label>
+            <input type="text" class="form-control" id="des" placeholder="Enter designation" name="EmpTypeID">
+        </div>
+        <div class="checkbox">
+            <label><input type="checkbox" name="remember"> Remember me</label>
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+        <button type="Cancel" class="btn btn-default">Cancel</button>
+        <button type="Display" class="btn btn-default">Display</button>
+        <button type="Update" class="btn btn-default">Update</button>
+        <button type="Delete" class="btn btn-default">Delete</button>
+
+    </form>
+</div>

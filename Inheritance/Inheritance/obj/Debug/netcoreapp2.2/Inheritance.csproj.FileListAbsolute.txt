@@ -1,0 +1,4 @@
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.csprojAssemblyReference.cache
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\obj\Debug\netcoreapp2.2\DynamicDataType.csprojAssemblyReference.cache
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\obj\Debug\netcoreapp2.2\DynamicDataType.csproj.CoreCompileInputs.cache
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\obj\Debug\netcoreapp2.2\DynamicDataType.AssemblyInfoInputs.cache
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\obj\Debug\netcoreapp2.2\DynamicDataType.AssemblyInfo.cs
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\bin\Debug\netcoreapp2.2\DynamicDataType.deps.json
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\bin\Debug\netcoreapp2.2\DynamicDataType.runtimeconfig.json
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\bin\Debug\netcoreapp2.2\DynamicDataType.runtimeconfig.dev.json
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\bin\Debug\netcoreapp2.2\DynamicDataType.dll
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\bin\Debug\netcoreapp2.2\DynamicDataType.pdb
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\obj\Debug\netcoreapp2.2\DynamicDataType.dll
+C:\Users\Annu\source\repos\DynamicDataType\DynamicDataType\obj\Debug\netcoreapp2.2\DynamicDataType.pdb

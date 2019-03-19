@@ -1,0 +1,11 @@
+C:\Users\Annu\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Annu.deps.json
+C:\Users\Annu\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Annu.runtimeconfig.json
+C:\Users\Annu\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Annu.runtimeconfig.dev.json
+C:\Users\Annu\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Annu.dll
+C:\Users\Annu\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Annu.pdb
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Annu.csprojAssemblyReference.cache
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Annu.csproj.CoreCompileInputs.cache
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Annu.AssemblyInfoInputs.cache
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Annu.AssemblyInfo.cs
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Annu.dll
+C:\Users\Annu\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Annu.pdb

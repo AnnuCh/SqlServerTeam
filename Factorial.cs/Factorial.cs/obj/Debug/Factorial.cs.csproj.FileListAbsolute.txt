@@ -1,0 +1,7 @@
+C:\Users\Annu\source\repos\Factorial.cs\Factorial.cs\bin\Debug\Factorial.cs.exe.config
+C:\Users\Annu\source\repos\Factorial.cs\Factorial.cs\bin\Debug\Factorial.cs.exe
+C:\Users\Annu\source\repos\Factorial.cs\Factorial.cs\bin\Debug\Factorial.cs.pdb
+C:\Users\Annu\source\repos\Factorial.cs\Factorial.cs\obj\Debug\Factorial.cs.csprojAssemblyReference.cache
+C:\Users\Annu\source\repos\Factorial.cs\Factorial.cs\obj\Debug\Factorial.cs.csproj.CoreCompileInputs.cache
+C:\Users\Annu\source\repos\Factorial.cs\Factorial.cs\obj\Debug\Factorial.cs.exe
+C:\Users\Annu\source\repos\Factorial.cs\Factorial.cs\obj\Debug\Factorial.cs.pdb
